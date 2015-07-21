@@ -1,0 +1,23 @@
+{
+  "name": "observable-store",
+  "version": "0.0.1",
+  "description": "A simple opinionated Flux Store based on RxJs observables",
+  "main": "index.js",
+  "peerDependencies": {
+    "lodash": "latest",
+    "rx": "~2.5.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/flipflops/observable-store.git"
+  },
+  "author": "Sten Hägglund",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flipflops/observable-store/issues"
+  },
+  "homepage": "https://github.com/flipflops/observable-store#readme"
+}
